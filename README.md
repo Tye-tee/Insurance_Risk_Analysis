@@ -28,7 +28,7 @@ Milestones completed:
 - Build dashboard for stakeholder presentation
 
 ## About the Author
-This project is part of my data portfolio to demonstrate applied analysis in the insurance industry. I have hands-on experience supporting clients in the property and casualty insurance sector and am building on that background with technical tools to support risk modeling and reporting.
+This project is part of my data portfolio to demonstrate applied analysis in the insurance industry. I have hands-on experience supporting clients in the property and casualty insurance sector and i am building on that background with technical tools to support risk modeling and reporting.
 
 ## Project Timeline
 - Start: June 2025  
